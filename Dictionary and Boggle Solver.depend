@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1654915768 source:f:\nisargshah\dsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boggleSolver.h"
+	<windows.h>
+	"dict.h"
+
+1654912991 f:\nisargshah\dsa\bogglesolver.h
+	"array.h"
+	"dict.h"
+	"linkedList.h"
+
+1654912991 f:\nisargshah\dsa\array.h
+
+1654912992 f:\nisargshah\dsa\dict.h
+
+1654912992 f:\nisargshah\dsa\linkedlist.h
+
